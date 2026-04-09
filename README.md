@@ -41,7 +41,8 @@ A customer support ticket dataset containing ticket descriptions, ticket types, 
 - Evaluated model performance (~20% accuracy)  
 - Displayed classification report  
 
-(Add screenshots here)
+<img width="742" height="536" alt="image" src="https://github.com/user-attachments/assets/7eec79d8-8e7d-4e53-83cd-972ecb41bd6e" />
+
 
 ---
 
@@ -62,7 +63,6 @@ This project demonstrates how NLP and machine learning can be used to automate t
 
 ---
 
-## 🔗 Files Included
-- Task2_Ticket_Classification.ipynb  
+##SupportTicketClassification.ipynb  
 - Dataset file  
 - README.md  # FUTURE_ML_02
